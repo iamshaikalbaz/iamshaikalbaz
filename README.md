@@ -1,5 +1,4 @@
-
-
+![logo](https://github.com/iamshaikalbaz/iamshaikalbaz/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Shaik Albas</h1>
 <h3 align="center">A passionate Frontend Web Developer from India</h3>
 
